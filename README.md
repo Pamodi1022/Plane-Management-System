@@ -1,4 +1,4 @@
-##Plane-Management-System
+#Plane-Management-System
 The Plane Management System is a Java application developed as part of the semester 2 coursework for the Computer Science degree program. The system is designed to streamline the management of seat reservations and enhance the user experience for booking and tracking flights.
 
 •	Book and Cancel Flights: Allows users to reserve and cancel flight seats efficiently.
