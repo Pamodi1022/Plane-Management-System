@@ -1,4 +1,3 @@
-//class name
 public class Person {
     //Attributes
     private String name;
